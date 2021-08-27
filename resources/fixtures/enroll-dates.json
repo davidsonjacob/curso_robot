@@ -1,0 +1,15 @@
+{
+    "students": {
+        "name": "Piccolo Daimaoh",
+        "email": "daimaoh@teste.com",
+        "age": 35,
+        "weight": 84,
+        "feet_tall": 1.93
+    },
+    "plans": {
+        "title": "Plano Anual",
+        "duration": 12,
+        "price": 69.90
+    },
+    "days": 365
+}

@@ -1,0 +1,15 @@
+{
+    "students": {
+        "name": "Chefe Hippo",
+        "email": "hippoh@teste.com",
+        "age": 53,
+        "weight": 66,
+        "feet_tall": 1.78
+    },
+    "plans": {
+        "title": "Plano Semestral",
+        "duration": 6,
+        "price": 89.90
+    },
+    "days": 182
+}
